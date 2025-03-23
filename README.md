@@ -7,3 +7,5 @@ Team 'Why' submission for Brain Dead 2025 hackathon, hosted by Indian Institute 
 ## Problem Statement 2: Research Article Summarization Using Advanced NLP Techniques
 
 Team 'Why' submission for Brain Dead 2025 hackathon, hosted by Indian Institute of Engineering Science and Technology, Shibpur (IIEST), this is the report for the first second statement and a summary of the approach we took .
+ ## the Model is in our google drive :
+Link : https://drive.google.com/file/d/1cWBNOwzjLa-CqV8vp9qc_o8w-uWwMWxx/view
